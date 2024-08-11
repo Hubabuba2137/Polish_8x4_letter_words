@@ -1,4 +1,4 @@
-I'm trying to solve a similar problem as Stand-up Maths did in this video: Stand-up Maths video.
+I was trying to solve a similar problem as Stand-up Maths did in this video: Stand-up Maths video.
 
 To run the program, first, unpack the wordlist called "slowa.zip." Then, open list_creation.cpp and choose the desired word length. 
 To do something similar to what was done in the video, you should select either 4 or 8. The reason for this will be explained later.
